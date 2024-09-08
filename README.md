@@ -1,8 +1,12 @@
- 
+### 
 
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 👉接网站建设、小程序、H5、APP、各种系统等
+
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做
+---
 
 **毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
@@ -21,30 +25,39 @@
 - 校园交流论坛
   
   发帖、查看帖子、评论帖子、修改删除帖子 、收藏帖子
+
 - 表白墙
   
    申请上墙、查看别人的表白贴
+
 - 二手交易
   
    搜索商品、购买商品、发布闲置商品
+
 - 个人中心
   
   我的帖子、我的回复、我的收藏、我的墙列表、我的二手商品、我的购买订单、销售订单
   
   后台管理
+
 - 首页统计商品、帖子、用户、表白墙、订单、评论数据
+
 - 人员管理
   
   用户管理、管理员管理
+
 - 帖子管理
   
   查看、删除、导出帖子
+
 - 评论管理
   
   查看、删除评论
+
 - 表白墙管理
   
   表白墙审核
+
 - 二手交易管理
   
   商品管理、订单管理
@@ -132,13 +145,17 @@
 ## 六、安装教程
 
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
+
 2. 使用IDEA/Eclipse/MyEclipse导入项目stucompla-rear2-feature-v0.0.1，Eclipse/MyEclipse导入时，若为maven项目请选择maven;
    
    若为maven项目，导入成功后请执行maven clean;maven install命令，然后运行；
-3. 修改application.yml 里面的数据库配置和redis配置和文件路径配置
-4. 启动项目后端项目
-5. vscode打开admin和stucompla-front-feature-v0.0.1项目，
-6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
-7. 分别访问  后台管理http://localhost:9528/ 和 前台页面http://localhost:8080/
 
- 
+3. 修改application.yml 里面的数据库配置和redis配置和文件路径配置
+
+4. 启动项目后端项目
+
+5. vscode打开admin和stucompla-front-feature-v0.0.1项目，
+
+6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
+
+7. 分别访问  后台管理http://localhost:9528/ 和 前台页面http://localhost:8080/
